@@ -11,6 +11,7 @@ POWER BI
 ![image](https://github.com/Gustavo1VenturaGPI/INFORMATICA-/assets/163065399/06625fa0-5f0a-4d91-80c7-f9fd5d0d9175)
 
 POWER APPS
+
 ![image](https://github.com/Gustavo1VenturaGPI/INFORMATICA-/assets/163065399/dd3413ba-15e7-4f9e-881c-27d6b68e7fe1)
 ![image](https://github.com/Gustavo1VenturaGPI/INFORMATICA-/assets/163065399/f11953ed-6579-441e-863e-e876406807fe)
 ![image](https://github.com/Gustavo1VenturaGPI/INFORMATICA-/assets/163065399/948acafd-9926-4960-8c2f-d16b1e854ebd)
